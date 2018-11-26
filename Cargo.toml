@@ -1,0 +1,7 @@
+[package]
+name = "tasite"
+version = "0.1.0"
+authors = ["Anton Rechenauer <antonrechenauer@gmail.com>"]
+
+[dependencies]
+calamine = "0.14.10"
